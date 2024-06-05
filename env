@@ -1,0 +1,4 @@
+MONGO_URL = mongodb+srv://admin:12345@cluster0.grkmywb.mongodb.net/
+ADMIN_USERNAME = admin
+ADMIN_PASSWORD = 12345
+TOKEN = SWdw4CV%7C%7C663Z%7Bp3%7CZXtP%250k6Ejj%3BF
