@@ -11,6 +11,10 @@ const Footer = () => {
         <div className={styles.card}>
           <h2 className={styles.motto}>
             DIJAMIN REPEAT ORDER.
+            <br />
+            <br />
+            <br />
+            Copy Create by Isabella Ayu
           </h2>
         </div>
         

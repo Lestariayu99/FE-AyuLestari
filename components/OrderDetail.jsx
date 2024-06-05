@@ -26,7 +26,7 @@ const OrderDetail = ({ total, createOrder }) => {
           <label className={styles.label}>Phone Number</label>
           <input
             type="text"
-            placeholder="+89 999 000 000"
+            placeholder="+628 999 000 000"
             className={styles.input}
           />
         </div>

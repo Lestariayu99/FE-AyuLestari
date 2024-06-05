@@ -61,6 +61,21 @@
   cursor: pointer;
 }
 
+.large {
+  font-size: 1.2em; /* Atau ukuran lain yang Anda inginkan */
+}
+
+.yellow {
+  color:  #FFD700; /* Mengatur warna teks menjadi kuning */
+}
+
+.centerText {
+  display: inline-block; /* Membuat elemen span berperilaku seperti inline block */
+  text-align: center; /* Memposisikan teks di tengah */
+  width: 100%; /* Menjamin teks berada di tengah */
+}
+
+
 .cart{
     position: relative;
 }
